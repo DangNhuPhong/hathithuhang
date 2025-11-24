@@ -1,0 +1,14 @@
+body {
+  background-color: bisque;
+}
+
+#ava {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
